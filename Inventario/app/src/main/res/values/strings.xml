@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Inventario</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="inform_cion">Informácion</string>
+    <string name="n_mero_de_identificaci_on">Número de Identificaciñon</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="ubicacion">Ubicacion:</string>
+    <string name="n_mero_de_identificacion">Número de Identificacion:</string>
+    <string name="guardar">Guardar</string>
+    <string name="password">Password:</string>
+    <string name="acceder">Acceder</string>
+    <string name="usuario">Usuario:</string>
+    <string name="responsable">Responsable:</string>
+    <string name="leer">Leer</string>
+    <string name="error_notag"/>
+    <string name="ok_write"/>
+    <string name="error_write"/>
+    <string name="ok_detected"/>
+    <string name="consultar">Consultar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="escribir">Escribir</string>
+    <string name="escribir_tag">Escribir Tag</string>
+    <string name="leer_tag">Leer Tag</string>
+</resources>
